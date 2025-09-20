@@ -137,6 +137,3 @@ Personalized fitness goals can be set based on activity-tracking.
 
 📊 Dashboard PDF: [wellness dashboard.pdf](https://github.com/user-attachments/files/22440333/wellness.dashboard.pdf)
 
-✨ Full Notebook: View Here
-
-📊 Dashboard PDF: Download Here
